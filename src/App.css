@@ -1,0 +1,10 @@
+body {
+  margin: 0;
+  font-family: sans-serif;
+}
+
+.main-content {
+  background-color: #131c29; /* light blue */
+  min-height: calc(100vh - 80px);
+  padding: 2rem;
+}

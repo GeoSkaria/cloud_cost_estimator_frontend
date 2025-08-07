@@ -1,0 +1,31 @@
+.header {
+  padding: 3rem 2rem; /* increased top & bottom padding */
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background-color: #6493dd;
+  color: rgb(241, 232, 232);
+  box-shadow: 0 4px 6px rgba(247, 246, 246, 0.836);
+}
+
+
+.header h1 {
+  font-size: 1.8rem;
+  margin: 0;
+}
+
+.header button {
+  padding: 0.6rem 1.2rem;
+  font-size: 1rem;
+  background-color: #3b82f6;
+  color: white;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  transition: background-color 0.3s;
+}
+
+.header button:hover {
+  background-color: #2563eb;
+}
+
