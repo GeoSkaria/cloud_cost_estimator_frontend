@@ -56,7 +56,7 @@ function ResourceInputRow({ index, data, onChange, onRemove }) {
         className="optionselect"
       >
         <option value="">Select Region</option>
-        <option value="US-East">US-East</option>
+        <option value="Us-East">Us-East</option>
         <option value="Europe-West">Europe-West</option>
         <option value="Asia-South">Asia-South</option>
       </select>
