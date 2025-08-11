@@ -7,11 +7,11 @@ It allows users to enter cloud resources, send them to the backend API, and disp
 ---
 
 ## 📌 Features
-- 🔹 Modern UI built with React
-- 🔹 Responsive design for desktop & mobile
-- 🔹 API integration with backend
-- 🔹 Dynamic form handling & cost calculation
-- 🔹 Error handling & loading indicators
+-  Modern UI built with React
+-  Responsive design for desktop 
+-  API integration with backend
+-  Dynamic form handling & cost calculation
+-  Error handling & loading indicators
 
 ---
 
@@ -21,12 +21,12 @@ It allows users to enter cloud resources, send them to the backend API, and disp
 Make sure you have the following installed:
 - **Node.js** (v18+ recommended)
 - **npm** or **yarn**
-- Backend server running ([Backend Repository](../backend/README.md))
+- Backend server running
 
 ### 2️⃣ Installation
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/cloud_cost_estimator_frontend.git
+git clone https://github.com/yourusername/cce.git
 
 # Go to the project directory
 cd cce
